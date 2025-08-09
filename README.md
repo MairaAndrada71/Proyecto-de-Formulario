@@ -1,2 +1,2 @@
 # Proyecto-de-Formulario
-Utilizo html y css para dar estilo.
+Utilizo codigo de lenguaje html y css para dar estilo.
